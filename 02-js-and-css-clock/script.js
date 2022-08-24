@@ -24,4 +24,8 @@ setInterval(()=>{
     setHourHand(currentDate)
     setMinHand(currentDate)
     setSecondHand(currentDate)
+
+    const audio = document.querySelector(`audio[data-key="76"]`);
+    audio.currentTime = "0";
+    audio.play();
 }, 1000)
