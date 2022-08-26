@@ -8,3 +8,4 @@ Source: https://github.com/wesbos/JavaScript30
 
 1. [JavaScript Drum Kit](01-js-drum-kit/)
 2. [JavaScript and CSS Clock](02-js-and-css-clock/)
+3. [CSS Variables](03-css-variables/)
