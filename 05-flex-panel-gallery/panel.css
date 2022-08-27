@@ -1,0 +1,39 @@
+.panels {
+  display: flex;
+  flex: 1;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+  cursor: pointer;
+}
+
+.panel > * {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex: 1 0 auto;
+}
+
+.panel > *:first-child {
+  transform: translateY(-100%);
+}
+
+.panel.open-active > *:first-child {
+  transform: translateY(0);
+}
+
+.panel > *:last-child {
+  transform: translateY(100%);
+}
+
+.panel.open-active > *:last-child {
+  transform: translateY(0);
+}
+
+.panel.open {
+  flex: 5;
+}
