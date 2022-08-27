@@ -1,8 +1,8 @@
 # JavaScript30
 
-**JavaScript30** is a 30-day vanilla JavaScript coding challenge by WebBos.
+**JavaScript30** is a 30-day vanilla JavaScript coding challenge by [WesBos](https://github.com/wesbos) with some of my own added challenges.
 
-Source: https://github.com/wesbos/JavaScript30
+Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 
 ## Table of contents
 
