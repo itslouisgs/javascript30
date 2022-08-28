@@ -11,3 +11,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 3. [CSS Variables](03-css-variables/)
 4. [Array Cardio: Part 1](04-array-cardio-1/)
 5. [Flex Panel Gallery](05-flex-panel-gallery/)
+6. [Type Ahead](06-type-ahead/)
