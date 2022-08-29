@@ -15,7 +15,7 @@ const comments = [
     { text: 'Nice Nice Nice!', id: 542328 }
 ];
 
-const checkAdult = (birthYear) => new Date().getFullYear() - birthYear;
+const checkAdult = (birthYear) => new Date().getFullYear() - birthYear >= 19;
 
 // Some and Every Checks
 // Array.prototype.some() // is at least one person 19 or older?
