@@ -13,3 +13,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 5. [Flex Panel Gallery](05-flex-panel-gallery/)
 6. [Type Ahead](06-type-ahead/)
 7. [Array Cardio: Part 2](07-array-cardio-2/)
+8. [Fun with HTML5 Canvas](08-fun-with-html5-canvas/)
