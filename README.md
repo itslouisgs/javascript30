@@ -1,6 +1,6 @@
 # JavaScript30
 
-**JavaScript30** is a 30-day vanilla JavaScript coding challenge by [WesBos](https://github.com/wesbos) with some of my own added challenges.
+**JavaScript30** is a 30-day vanilla JavaScript coding challenge by [WesBos](https://github.com/wesbos) with some modifications and add-ons.
 
 Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 
@@ -15,3 +15,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 7. [Array Cardio: Part 2](07-array-cardio-2/)
 8. [Fun with HTML5 Canvas](08-fun-with-html5-canvas/)
 9. [Dev Tools Domination](09-dev-tools-domination/)
+10. [Hold Shift and Check Checkboxes](10-hold-shift-and-check-checkboxes/)
