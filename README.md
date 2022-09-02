@@ -16,3 +16,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 8. [Fun with HTML5 Canvas](08-fun-with-html5-canvas/)
 9. [Dev Tools Domination](09-dev-tools-domination/)
 10. [Hold Shift and Check Checkboxes](10-hold-shift-and-check-checkboxes/)
+11. [Custom Video Player](11-custom-video-player/)
