@@ -68,9 +68,5 @@ window.addEventListener("keyup", (e) => {
     case "ArrowRight": // Skip Forward
       skip(25);
       break;
-    case "ArrowUp": // Volume up
-      break;
-    case "ArrowDown": // Volume up
-      break;
   }
 });
