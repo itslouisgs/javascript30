@@ -73,5 +73,4 @@ window.addEventListener("keyup", (e) => {
     case "ArrowDown": // Volume up
       break;
   }
-  e.code = "Space" && togglePlay;
 });
