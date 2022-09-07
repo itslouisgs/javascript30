@@ -21,3 +21,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 13. [Slide in on Scroll](13-slide-in-on-scroll/)
 14. [JavaScript References vs Copy](14-javascript-references-vs-copying/)
 15. [LocalStorage](15-localstorage/)
+16. [Mouse Move Shadow](16-mouse-move-shadow/)
