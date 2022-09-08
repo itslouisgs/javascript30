@@ -22,3 +22,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 14. [JavaScript References vs Copy](14-javascript-references-vs-copying/)
 15. [LocalStorage](15-localstorage/)
 16. [Mouse Move Shadow](16-mouse-move-shadow/)
+17. [Sort Without Articles](17-sort-without-articles/)
