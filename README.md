@@ -23,3 +23,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 15. [LocalStorage](15-localstorage/)
 16. [Mouse Move Shadow](16-mouse-move-shadow/)
 17. [Sort Without Articles](17-sort-without-articles/)
+18. [Adding Up Times with Reduce](18-adding-up-times-with-reduce/)
