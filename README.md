@@ -25,3 +25,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 17. [Sort Without Articles](17-sort-without-articles/)
 18. [Adding Up Times with Reduce](18-adding-up-times-with-reduce/)
 19. [Webcam Fun](19-webcam-fun/)
+20. [Speech Detection](20-speech-detection/)
