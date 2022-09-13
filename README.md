@@ -27,3 +27,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 19. [Webcam Fun](19-webcam-fun/)
 20. [Speech Detection](20-speech-detection/)
 21. [Geolocation](21-geolocation/)
+22. [Follow Along Link Highlighter](22-follow-along-link-highlighter/)
