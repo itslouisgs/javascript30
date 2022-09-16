@@ -30,3 +30,4 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 22. [Follow Along Link Highlighter](22-follow-along-link-highlighter/)
 23. [Speech Synthesis](23-speech-synthesis/)
 24. [Sticky Nav](24-sticky-nav/)
+25. [Event Capture, Propagation, Bubbling, and Once](25-event-capture-propagation-bubbling-and-once/)
