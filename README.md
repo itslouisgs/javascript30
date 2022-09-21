@@ -31,3 +31,8 @@ Source: [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaS
 23. [Speech Synthesis](23-speech-synthesis/)
 24. [Sticky Nav](24-sticky-nav/)
 25. [Event Capture, Propagation, Bubbling, and Once](25-event-capture-propagation-bubbling-and-once/)
+26. [Stripe Follow Along Nav](26-stripe-follow-along-nav/)
+27. [Click and Drag](27-click-and-drag/)
+28. [Video Speed Controller](28-video-speed-controller/)
+29. [Countdown Timer](29-countdown-timer/)
+30. [Whack a Mole](30-whack-a-mole/)
