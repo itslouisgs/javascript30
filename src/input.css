@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  @apply text-slate-900 dark:text-slate-200;
+}
+
+h1 {
+  @apply mb-6 border-b border-slate-800/10 pb-3 text-4xl font-bold;
+}
+
+h2 {
+  @apply my-4 border-b border-slate-800/10 pb-2 text-2xl font-bold;
+}
+
+p {
+  @apply pb-4;
+}
+
+a {
+  @apply text-blue-700 underline;
+}
+
+a:hover {
+  @apply text-blue-900;
+}
+
+ol {
+  @apply ml-8 list-decimal;
+}
+
+ol > li {
+  @apply pl-2;
+}
