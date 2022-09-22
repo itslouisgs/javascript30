@@ -1,8 +1,13 @@
 module.exports = {
   content: ["./index.html"],
   theme: {
-    extend: {},
+    extend: {
+      container: {
+        center: true,
+        padding: "0.5rem",
+      },
+    },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")],
   darkMode: "class",
 };
